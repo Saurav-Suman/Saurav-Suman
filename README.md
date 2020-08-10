@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently building and scaling Indonesia's largest B2B Bill Payment service.
+- 🌱 I’m currently exploring Distributed Systems.
+- 📫 How to reach me: jnu.saurav@gmail.com
+- 😄 Fun fact: I’m a Pisces and INTJ
+
 <!--
 **Saurav-Suman/Saurav-Suman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
