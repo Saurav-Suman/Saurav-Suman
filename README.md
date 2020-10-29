@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Saurav's github stats](https://github-readme-stats.vercel.app/api?username=Saurav-Suman&show_icons=true&theme=default)
+
 - 🔭 I’m currently building and scaling Indonesia's largest B2B Bill Payment service.
 - 🌱 I’m currently exploring Distributed Systems.
 - 📫 How to reach me: jnu.saurav@gmail.com
